@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surya
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...B-TECH
 - 💞️ I’m looking to collaborate on ...Developers to increse my knowledge
 - 📫 How to reach me ...inbasurya32@gmail.com
